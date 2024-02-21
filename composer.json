@@ -1,5 +1,5 @@
 {
-    "name": "inviqa/spryker-debug",
+    "name": "lausen/spryker-debug",
     "description": "Inviqa Spryker Debug Module",
     "type": "library",
     "license": "MIT",
